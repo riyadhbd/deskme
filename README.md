@@ -1,3 +1,3 @@
 # Connect nodemcu to internet for controlling home components
-## Use heroku for deployment
+## heroku deployment
 ### sailjs, swagger is used as home server

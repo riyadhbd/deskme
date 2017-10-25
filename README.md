@@ -1,1 +1,1 @@
-# iot-cloud
+# Skeleton project for Swagger
